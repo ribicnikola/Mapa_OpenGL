@@ -1,0 +1,3 @@
+C:/Users/Nikola/Desktop/Mapa_OpenGL/out/build/x64-debug/CMakeFiles/Mapa_OpenGL.dir
+C:/Users/Nikola/Desktop/Mapa_OpenGL/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nikola/Desktop/Mapa_OpenGL/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
